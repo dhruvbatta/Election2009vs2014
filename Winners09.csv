@@ -1,0 +1,542 @@
+PCName,PCType,Sex,Category,Age,Party
+Adilabad,ST,M,ST,43,TDP
+Peddapalle,SC,M,SC,51,INC
+Karimnagar,GEN,M,GEN,41,INC
+Nizamabad,GEN,M,GEN,50,INC
+Zahirabad,GEN,M,GEN,46,INC
+Medak,GEN,F,GEN,43,TRS
+Malkajgiri,GEN,M,SC,54,INC
+Secundrabad,GEN,M,GEN,47,INC
+Hyderabad,GEN,M,GEN,41,AIMIM
+CHELVELLA,GEN,M,GEN,67,INC
+Mahbubnagar,GEN,M,GEN,55,TRS
+Nagarkurnool,SC,M,SC,57,INC
+Nalgonda,GEN,M,GEN,55,INC
+Bhongir,GEN,M,GEN,41,INC
+Warangal,SC,M,SC,55,INC
+Mahabubabad,ST,M,ST,45,INC
+Khammam,GEN,M,GEN,50,TDP
+Aruku,ST,M,ST,62,INC
+Srikakulam,GEN,F,GEN,47,INC
+Vizianagaram,GEN,F,GEN,45,INC
+Visakhapatnam,GEN,F,GEN,49,INC
+Anakapalli,GEN,M,GEN,55,INC
+Kakinada,GEN,M,GEN,46,INC
+Amalapuram,SC,M,SC,50,INC
+Rajahmundry,GEN,M,GEN,54,INC
+Narsapuram,GEN,M,GEN,61,INC
+Eluru,GEN,M,GEN,65,INC
+Machilipatnam,GEN,M,GEN,59,TDP
+Vijayawada,GEN,M,GEN,45,INC
+Guntur,GEN,M,GEN,65,INC
+Narasaraopet,GEN,M,GEN,42,TDP
+Bapatla,SC,F,SC,50,INC
+Ongole,GEN,M,GEN,55,INC
+Nandyal,GEN,M,GEN,59,INC
+Kurnool,GEN,M,GEN,57,INC
+Anantapur,GEN,M,GEN,52,INC
+Hindupur,GEN,M,GEN,52,TDP
+Kadapa,GEN,M,GEN,36,INC
+Nellore,GEN,M,GEN,59,INC
+Tirupati,SC,M,SC,54,INC
+Rajampet,GEN,M,GEN,64,INC
+Chittoor,SC,M,SC,57,TDP
+Arunachal West,GEN,M,ST,42,INC
+Arunachal East,GEN,M,ST,50,INC
+Karimganj,SC,M,SC,68,INC
+Silchar,GEN,M,GEN,74,BJP
+Autonomous District,ST,M,ST,64,INC
+Dhubri,GEN,M,GEN,54,AUDF
+Kokrajhar,ST,M,ST,49,BOPF
+Barpeta,GEN,M,GEN,55,INC
+Gauhati,GEN,F,GEN,70,BJP
+Mangaldoi,GEN,M,GEN,55,BJP
+Tezpur,GEN,M,GEN,60,AGP
+Nowgong,GEN,M,GEN,57,BJP
+Kaliabor,GEN,M,GEN,57,INC
+Jorhat,GEN,M,GEN,77,INC
+Dibrugarh,GEN,M,GEN,60,INC
+Lakhimpur,GEN,F,GEN,45,INC
+Valmiki Nagar,GEN,M,GEN,51,JD(U)
+Paschim Champaran,GEN,M,GEN,44,BJP
+Purvi Champaran,GEN,M,GEN,59,BJP
+Sheohar,GEN,F,GEN,60,BJP
+Sitamarhi,GEN,M,GEN,37,JD(U)
+Madhubani,GEN,M,GEN,72,BJP
+Jhanjharpur,GEN,M,GEN,60,JD(U)
+Supaul,GEN,M,GEN,47,JD(U)
+Araria,GEN,M,GEN,43,BJP
+Kishanganj,GEN,M,GEN,62,INC
+Katihar,GEN,M,GEN,63,BJP
+Purnia,GEN,M,GEN,57,BJP
+Madhepura,GEN,M,GEN,61,JD(U)
+Darbhanga,GEN,M,GEN,48,BJP
+Muzaffarpur,GEN,M,GEN,78,JD(U)
+Vaishali,GEN,M,GEN,62,RJD
+Gopalganj,SC,M,SC,52,JD(U)
+Siwan,GEN,M,GEN,43,IND
+Maharajganj,GEN,M,GEN,61,RJD
+Saran,GEN,M,GEN,60,RJD
+Hajipur,SC,M,SC,88,JD(U)
+Ujiarpur,GEN,F,GEN,40,JD(U)
+Samastipur,SC,M,SC,38,JD(U)
+Begusarai,GEN,M,GEN,51,JD(U)
+Khagaria,GEN,M,GEN,50,JD(U)
+Bhagalpur,GEN,M,GEN,40,BJP
+Banka,GEN,M,GEN,54,IND
+Munger,GEN,M,GEN,55,JD(U)
+Nalanda,GEN,M,GEN,44,JD(U)
+Patna Sahib,GEN,M,GEN,62,BJP
+Pataliputra,GEN,M,GEN,64,JD(U)
+Arrah,GEN,F,GEN,44,JD(U)
+Buxar,GEN,M,GEN,65,RJD
+Sasaram,SC,F,SC,63,INC
+Karakat,GEN,M,GEN,54,JD(U)
+Jahanabad,GEN,M,GEN,58,JD(U)
+Aurangabad,GEN,M,GEN,43,JD(U)
+Gaya,SC,M,SC,47,BJP
+Nawada,GEN,M,GEN,70,BJP
+Jamui,SC,M,SC,46,JD(U)
+North Goa,GEN,M,GEN,56,BJP
+South Goa,GEN,M,GEN,62,INC
+Kachchh,SC,F,SC,37,BJP
+Banaskantha,GEN,M,GEN,47,INC
+Patan,GEN,M,GEN,51,INC
+Mahesana,GEN,F,GEN,50,BJP
+Sabarkantha,GEN,M,GEN,55,BJP
+Gandhinagar,GEN,M,GEN,81,BJP
+Ahmedabad East,GEN,M,GEN,62,BJP
+Ahmedabad West,SC,M,SC,59,BJP
+Surendranagar,GEN,M,GEN,68,INC
+Rajkot,GEN,M,GEN,54,INC
+Porbandar,GEN,M,GEN,51,INC
+Jamnagar,GEN,M,GEN,51,INC
+Junagadh,GEN,M,GEN,51,BJP
+Amreli,GEN,M,GEN,53,BJP
+Bhavnagar,GEN,M,GEN,53,BJP
+Anand,GEN,M,GEN,55,INC
+Kheda,GEN,M,GEN,71,INC
+Panchmahal,GEN,M,GEN,67,BJP
+Dahod,ST,F,ST,54,INC
+Vadodara,GEN,M,GEN,45,BJP
+Chhota Udaipur,ST,M,ST,57,BJP
+Bharuch,GEN,M,GEN,52,BJP
+Bardoli,ST,M,ST,43,INC
+Surat,GEN,F,GEN,48,BJP
+Navsari,GEN,M,GEN,54,BJP
+Valsad,ST,M,ST,46,INC
+Ambala,SC,F,SC,46,INC
+Kurukshetra,GEN,M,GEN,39,INC
+Sirsa,SC,M,SC,33,INC
+Hisar,GEN,M,GEN,77,HJCBL
+Karnal,GEN,M,GEN,46,INC
+Sonipat,GEN,M,GEN,40,INC
+Rohtak,GEN,M,GEN,31,INC
+Bhiwani-Mahendragarh,GEN,F,GEN,33,INC
+Gurgaon,GEN,M,GEN,59,INC
+Faridabad,GEN,M,GEN,53,INC
+Kangra,GEN,M,GEN,53,BJP
+Mandi,GEN,M,GEN,74,INC
+Hamirpur,GEN,M,GEN,34,BJP
+Shimla,SC,M,SC,58,BJP
+Baramulla,GEN,M,GEN,74,JKN
+Srinagar,GEN,M,GEN,67,JKN
+Anantnag,GEN,M,GEN,55,JKN
+Ladakh,GEN,M,ST,70,IND
+Udhampur,GEN,M,GEN,50,INC
+Jammu,GEN,M,GEN,56,INC
+Chikkodi,GEN,M,GEN,44,BJP
+Belgaum,GEN,M,GEN,55,BJP
+Bagalkot,GEN,M,GEN,56,BJP
+Bijapur,SC,M,SC,57,BJP
+Gulbarga,SC,M,SC,67,INC
+Raichur,ST,M,ST,51,BJP
+Bidar,GEN,M,GEN,73,INC
+Koppal,GEN,M,GEN,56,BJP
+Bellary,ST,F,ST,35,BJP
+Haveri,GEN,M,GEN,42,BJP
+Dharwad,GEN,M,GEN,46,BJP
+Uttara Kannada,GEN,M,GEN,40,BJP
+Davanagere,GEN,M,GEN,56,BJP
+Shimoga,GEN,M,GEN,36,BJP
+Udupi Chikmagalur,GEN,M,GEN,56,BJP
+Hassan,GEN,M,GEN,76,JD(S)
+Dakshina Kannada,GEN,M,GEN,42,BJP
+Chitradurga,SC,M,SC,41,BJP
+Tumkur,GEN,M,GEN,67,BJP
+Mandya,GEN,M,GEN,49,JD(S)
+Mysore,GEN,M,GEN,59,INC
+Chamarajanagar,SC,M,SC,48,INC
+Bangalore Rural,GEN,M,GEN,49,JD(S)
+Bangalore North,GEN,M,GEN,72,BJP
+Bangalore central,GEN,M,GEN,45,BJP
+Bangalore South,GEN,M,GEN,49,BJP
+Chikkballapur,GEN,M,GEN,69,INC
+Kolar,SC,M,SC,61,INC
+Kasaragod,GEN,M,GEN,64,CPM
+Kannur,GEN,M,GEN,60,INC
+Vadakara,GEN,M,GEN,64,INC
+Wayanad,GEN,M,GEN,57,INC
+Kozhikode,GEN,M,GEN,57,INC
+Malappuram,GEN,M,GEN,70,MUL
+Ponnani,GEN,M,GEN,62,MUL
+Palakkad,GEN,M,GEN,34,CPM
+Alathur,SC,M,SC,34,CPM
+Thrissur,GEN,M,GEN,62,INC
+Chalakudy,GEN,M,GEN,59,INC
+Ernakulam,GEN,M,GEN,61,INC
+Idukki,GEN,M,GEN,59,INC
+Kottayam,GEN,M,GEN,44,KEC(M)
+Alappuzha,GEN,M,GEN,46,INC
+Mavelikkara,SC,M,SC,46,INC
+Pathanamthitta,GEN,M,GEN,52,INC
+Kollam,GEN,M,GEN,66,INC
+Attingal,GEN,M,GEN,46,CPM
+Thiruvananthapuram,GEN,M,GEN,53,INC
+MORENA,GEN,M,GEN,49,BJP
+BHIND,SC,M,SC,39,BJP
+GWALIOR,GEN,F,GEN,54,BJP
+GUNA,GEN,M,GEN,38,INC
+SAGAR,GEN,M,GEN,46,BJP
+TIKAMGARH,SC,M,SC,55,BJP
+DAMOH,GEN,M,GEN,68,BJP
+KHAJURAHO,GEN,M,GEN,50,BJP
+SATNA,GEN,M,GEN,46,BJP
+REWA,GEN,M,GEN,36,BSP
+SIDHI,GEN,M,GEN,60,BJP
+SHAHDOL,ST,F,ST,52,INC
+JABALPUR,GEN,M,GEN,48,BJP
+MANDLA,ST,M,ST,59,INC
+BALAGHAT,GEN,M,GEN,60,BJP
+CHHINDWARA,GEN,M,GEN,62,INC
+HOSHANGABAD,GEN,M,GEN,44,INC
+VIDISHA,GEN,F,GEN,57,BJP
+BHOPAL,GEN,M,GEN,79,BJP
+RAJGARH,GEN,M,GEN,58,INC
+DEWAS,SC,M,SC,57,INC
+UJJAIN,SC,M,SC,41,INC
+MANDSOUR,GEN,F,GEN,36,INC
+RATLAM,ST,M,ST,59,INC
+DHAR,ST,M,ST,45,INC
+INDORE,GEN,F,GEN,65,BJP
+KHARGONE,ST,M,ST,55,BJP
+KHANDWA,GEN,M,GEN,36,INC
+BETUL,ST,F,ST,43,BJP
+Nandurbar,ST,M,ST,75,INC
+Dhule,GEN,M,GEN,60,BJP
+Jalgaon,GEN,M,GEN,47,BJP
+Raver,GEN,M,GEN,55,BJP
+Buldhana,GEN,M,GEN,49,SHS
+Akola,GEN,M,GEN,50,BJP
+Amravati,SC,M,SC,61,SHS
+Wardha,GEN,M,GEN,72,INC
+Ramtek,SC,M,SC,49,INC
+Nagpur,GEN,M,GEN,60,INC
+Bhandara - gondiya,GEN,M,GEN,52,NCP
+Gadchiroli-Chimur,ST,M,ST,59,INC
+Chandrapur,GEN,M,GEN,54,BJP
+Yavatmal-Washim,GEN,F,GEN,36,SHS
+Hingoli,GEN,M,GEN,46,SHS
+Nanded,GEN,M,GEN,65,INC
+Parbhani,GEN,M,GEN,64,SHS
+Jalna,GEN,M,GEN,56,BJP
+Aurangabad,GEN,M,GEN,57,SHS
+Dindori,ST,M,ST,57,BJP
+Nashik,GEN,M,GEN,35,NCP
+Palghar,ST,M,ST,55,BVA
+Bhiwandi,GEN,M,GEN,51,INC
+Kalyan,GEN,M,GEN,36,SHS
+Thane,GEN,M,GEN,37,NCP
+Mumbai North,GEN,M,GEN,44,INC
+Mumbai North West,GEN,M,GEN,54,INC
+Mumbai North East,GEN,M,GEN,40,NCP
+Mumbai North central,GEN,F,GEN,42,INC
+Mumbai South central,GEN,M,GEN,69,INC
+Mumbai   South,GEN,M,GEN,33,INC
+Raigad,GEN,M,GEN,58,SHS
+Maval,GEN,M,GEN,66,SHS
+Pune,GEN,M,GEN,64,INC
+Baramati,GEN,F,GEN,39,NCP
+Shirur,GEN,M,GEN,52,SHS
+Ahmadnagar,GEN,M,GEN,59,BJP
+Shirdi,SC,M,SC,59,SHS
+Beed,GEN,M,GEN,59,BJP
+Osmanabad,GEN,M,GEN,68,NCP
+Latur,SC,M,SC,68,INC
+Solapur,SC,M,SC,67,INC
+Madha,GEN,M,GEN,68,NCP
+Sangli,GEN,M,GEN,35,INC
+Satara,GEN,M,GEN,43,NCP
+Ratnagiri - sindhudurg,GEN,M,GEN,28,INC
+Kolhapur,GEN,M,GEN,74,IND
+Hatkanangle,GEN,M,GEN,41,SWP
+Inner manipur,GEN,M,GEN,58,INC
+Outer manipur,ST,M,ST,56,INC
+Shillong,ST,M,ST,41,INC
+Tura,ST,F,ST,28,NCP
+MIZORAM,ST,M,ST,72,INC
+Nagaland,ST,M,ST,65,NPF
+Bargarh,GEN,M,GEN,35,INC
+Sundargarh,ST,M,ST,67,INC
+Sambalpur,GEN,M,GEN,51,INC
+Keonjhar,ST,M,ST,38,BJD
+Mayurbhanj,ST,M,ST,47,BJD
+Balasore,GEN,M,GEN,58,INC
+Bhadrak,SC,M,SC,68,BJD
+Jajpur,SC,M,SC,52,BJD
+Dhenkanal,GEN,M,GEN,53,BJD
+Bolangir,GEN,M,GEN,34,BJD
+Kalahandi,GEN,M,GEN,52,INC
+Nabarangpur,ST,M,ST,33,INC
+Kandhamal,GEN,M,GEN,71,BJD
+Cuttack,GEN,M,GEN,51,BJD
+Kendrapara,GEN,M,GEN,45,BJD
+Jagatsinghpur,SC,M,SC,42,CPI
+Puri,GEN,M,GEN,49,BJD
+Bhubaneswar,GEN,M,GEN,66,BJD
+Aska,GEN,M,GEN,65,BJD
+Berhampur,GEN,M,GEN,42,BJD
+Koraput,ST,M,ST,53,BJD
+Gurdaspur,GEN,M,GEN,52,INC
+Amritsar,GEN,M,GEN,45,BJP
+Khadoor Sahib,GEN,M,GEN,65,SAD
+Jalandhar,SC,M,SC,53,INC
+Hoshiarpur,SC,F,SC,66,INC
+Anandpur Sahib,GEN,M,GEN,33,INC
+Ludhiana,GEN,M,GEN,44,INC
+Fatehgarh Sahib,SC,M,SC,76,INC
+Faridkot,SC,F,SC,60,SAD
+Ferozpur,GEN,M,SC,46,SAD
+Bathinda,GEN,F,GEN,42,SAD
+Sangrur,GEN,M,GEN,37,INC
+Patiala,GEN,F,GEN,64,INC
+Ganganagar,SC,M,SC,53,INC
+Bikaner,SC,M,SC,55,BJP
+Churu,GEN,M,GEN,63,BJP
+Jhunjhunu,GEN,M,GEN,81,INC
+Sikar,GEN,M,GEN,66,INC
+Jaipur Rural,GEN,M,GEN,40,INC
+Jaipur,GEN,M,GEN,54,INC
+Alwar,GEN,M,GEN,38,INC
+BHARATPUR,SC,M,SC,62,INC
+KARAULI-DHOLPUR,SC,M,SC,45,INC
+Dausa,ST,M,ST,57,IND
+TONK-SAWAI MADHOPUR,GEN,M,GEN,65,INC
+Ajmer,GEN,M,GEN,31,INC
+Nagaur,GEN,F,GEN,36,INC
+Pali,GEN,M,GEN,59,INC
+Jodhpur,GEN,F,GEN,65,INC
+Barmer,GEN,M,GEN,38,INC
+Jalore,GEN,M,GEN,32,BJP
+Udaipur,ST,M,ST,48,INC
+Banswara,ST,M,ST,55,INC
+Chittorgarh,GEN,F,GEN,62,INC
+Rajsamand,GEN,M,GEN,58,INC
+Bhilwara,GEN,M,GEN,59,INC
+Kota,GEN,M,GEN,44,INC
+JHALAWAR-BARAN,GEN,M,GEN,38,BJP
+Sikkim,GEN,M,GEN,54,SDF
+Thiruvallur,SC,M,SC,57,ADMK
+Chennai North,GEN,M,GEN,54,DMK
+Chennai South,GEN,M,GEN,48,ADMK
+Chennai central,GEN,M,GEN,42,DMK
+Sriperumbudur,GEN,M,GEN,67,DMK
+Kancheepuram,SC,M,SC,44,INC
+Arakkonam,GEN,M,GEN,61,DMK
+Vellore,GEN,M,GEN,49,DMK
+Krishnagiri,GEN,M,GEN,51,DMK
+Dharmapuri,GEN,M,GEN,45,DMK
+Tiruvannamalai,GEN,M,GEN,73,DMK
+Arani,GEN,M,GEN,68,INC
+Viluppuram,SC,M,SC,58,ADMK
+Kallakurichi,GEN,M,GEN,52,DMK
+Salem,GEN,M,GEN,63,ADMK
+Namakkal,GEN,M,GEN,45,DMK
+Erode,GEN,M,GEN,61,MDMK
+Tiruppur,GEN,M,GEN,51,ADMK
+Nilgiris,SC,M,SC,45,DMK
+Coimbatore,GEN,M,GEN,59,CPM
+Pollachi,GEN,M,GEN,48,ADMK
+Dindigul,GEN,M,GEN,75,INC
+Karur,GEN,M,GEN,62,ADMK
+Tiruchirappalli,GEN,M,GEN,37,ADMK
+Cuddalore,GEN,M,GEN,56,INC
+Mayiladuthurai,GEN,M,GEN,53,ADMK
+Nagapattinam,SC,M,SC,47,DMK
+Thanjavur,GEN,M,GEN,58,DMK
+Sivaganga,GEN,M,GEN,63,INC
+Madurai,GEN,M,GEN,58,DMK
+Theni,GEN,M,GEN,58,INC
+Virudhunagar,GEN,M,GEN,36,INC
+Ramanathapuram,GEN,M,GEN,36,DMK
+Thoothukkudi,GEN,M,GEN,39,DMK
+Tenkasi,SC,M,SC,44,CPI
+Tirunelveli,GEN,M,GEN,59,INC
+Kanniyakumari,GEN,F,GEN,37,DMK
+Tripura West,GEN,M,GEN,71,CPM
+Tripura East,ST,M,ST,67,CPM
+Saharanpur,GEN,M,GEN,53,BSP
+Kairana,GEN,F,GEN,39,BSP
+Muzaffarnagar,GEN,M,GEN,45,BSP
+Bijnor,GEN,M,GEN,45,RLD
+Nagina,SC,M,SC,36,SP
+Moradabad,GEN,M,GEN,46,INC
+Rampur,GEN,F,GEN,45,SP
+Sambhal,GEN,M,GEN,76,BSP
+Amroha,GEN,M,GEN,38,RLD
+Meerut,GEN,M,GEN,57,BJP
+Baghpat,GEN,M,GEN,70,RLD
+Ghaziabad,GEN,M,GEN,57,BJP
+Gautam buddh Nagar,GEN,M,GEN,44,BSP
+Bulandshahr,SC,M,SC,43,SP
+Aligarh,GEN,F,GEN,46,BSP
+Hathras,SC,F,SC,29,RLD
+Mathura,GEN,M,GEN,30,RLD
+Agra,SC,M,SC,43,BJP
+Fatehpur sikri,GEN,F,GEN,44,BSP
+Firozabad,GEN,M,GEN,35,SP
+Mainpuri,GEN,M,GEN,69,SP
+Etah,GEN,M,GEN,78,IND
+Badaun,GEN,M,GEN,30,SP
+Aonla,GEN,F,GEN,52,BJP
+Bareilly,GEN,M,GEN,50,INC
+Pilibhit,GEN,M,GEN,29,BJP
+Shahjahanpur,SC,M,SC,48,SP
+Kheri,GEN,M,GEN,61,INC
+Dhaurahra,GEN,M,GEN,36,INC
+Sitapur,GEN,F,GEN,35,BSP
+Hardoi,SC,F,SC,43,SP
+Misrikh,SC,M,SC,42,BSP
+Unnao,GEN,F,GEN,51,INC
+Mohanlalganj,SC,F,SC,58,SP
+Lucknow,GEN,M,GEN,73,BJP
+Rae bareli,GEN,F,GEN,62,INC
+Amethi,GEN,M,GEN,38,INC
+Sultanpur,GEN,M,GEN,55,INC
+Pratapgarh,GEN,F,GEN,49,INC
+Farrukhabad,GEN,M,GEN,56,INC
+Etawah,SC,M,SC,49,SP
+Kannauj,GEN,M,GEN,35,SP
+Kanpur,GEN,M,GEN,64,INC
+Akbarpur,GEN,M,GEN,48,INC
+Jalaun,SC,M,SC,35,SP
+Jhansi,GEN,M,GEN,47,INC
+Hamirpur,GEN,M,GEN,65,BSP
+Banda,GEN,M,GEN,49,SP
+Fatehpur,GEN,M,GEN,53,SP
+Kaushambi,SC,M,SC,51,SP
+Phulpur,GEN,M,GEN,42,BSP
+Allahabad,GEN,M,GEN,65,SP
+Barabanki,SC,M,SC,64,INC
+Faizabad,GEN,M,GEN,58,INC
+Ambedkar Nagar,GEN,M,GEN,55,BSP
+Bahraich,SC,M,SC,57,INC
+Kaiserganj,GEN,M,GEN,52,SP
+Shrawasti,GEN,M,GEN,45,INC
+Gonda,GEN,M,GEN,68,INC
+Domariyaganj,GEN,M,GEN,59,INC
+Basti,GEN,M,GEN,43,BSP
+Sant kabir Nagar,GEN,M,GEN,44,BSP
+Maharajganj,GEN,M,GEN,61,INC
+Gorakhpur,GEN,M,GEN,36,BJP
+Kushi Nagar,GEN,M,GEN,45,INC
+Deoria,GEN,M,GEN,72,BSP
+Bansgaon,SC,M,SC,33,BJP
+Lalganj,SC,M,SC,56,BSP
+Azamgarh,GEN,M,GEN,49,BJP
+Ghosi,GEN,M,GEN,50,BSP
+Salempur,GEN,M,GEN,48,BSP
+Ballia,GEN,M,GEN,40,SP
+Jaunpur,GEN,M,GEN,33,BSP
+Machhlishahr,SC,M,SC,48,SP
+Ghazipur,GEN,M,GEN,43,SP
+Chandauli,GEN,M,GEN,49,SP
+Varanasi,GEN,M,GEN,73,BJP
+Bhadohi,GEN,M,GEN,56,BSP
+Mirzapur,GEN,M,GEN,48,SP
+Robertsganj,SC,M,SC,57,SP
+Cooch behar,SC,M,SC,49,AIFB
+Alipurduars,ST,M,ST,54,RSP
+Jalpaiguri,SC,M,SC,54,CPM
+Darjeeling,GEN,M,GEN,70,BJP
+Raiganj,GEN,F,GEN,48,INC
+Balurghat,GEN,M,GEN,68,RSP
+Maldaha Uttar,GEN,F,GEN,27,INC
+Maldaha Dakshin,GEN,M,GEN,65,INC
+Jangipur,GEN,M,GEN,72,INC
+Baharampur,GEN,M,GEN,53,INC
+Murshidabad,GEN,M,GEN,56,INC
+Krishnanagar,GEN,M,GEN,51,AITC
+Ranaghat,SC,M,SC,69,AITC
+Bangaon,SC,M,SC,67,AITC
+Barrackpore,GEN,M,GEN,58,AITC
+Dum dum,GEN,M,GEN,61,AITC
+Barasat,GEN,F,GEN,49,AITC
+Basirhat,GEN,M,GEN,46,AITC
+Joynagar,SC,M,SC,50,IND
+Mathurapur,SC,M,SC,71,AITC
+Diamond harbour,GEN,M,GEN,68,AITC
+Jadavpur,GEN,M,GEN,59,AITC
+Kolkata Dakshin,GEN,F,GEN,54,AITC
+Kolkata Uttar,GEN,M,GEN,57,AITC
+Howrah,GEN,M,GEN,82,AITC
+Uluberia,GEN,M,GEN,56,AITC
+Srerampur,GEN,M,GEN,52,AITC
+Hooghly,GEN,F,GEN,57,AITC
+Arambagh,SC,M,SC,49,CPM
+Tamluk,GEN,M,GEN,39,AITC
+Kanthi,GEN,M,GEN,69,AITC
+Ghatal,GEN,M,GEN,73,CPI
+Jhargram,ST,M,ST,40,CPM
+Medinipur,GEN,M,GEN,63,CPI
+Purulia,GEN,M,GEN,54,AIFB
+Bankura,GEN,M,GEN,67,CPM
+Bishnupur,SC,F,SC,34,CPM
+Bardhaman Purba,SC,M,SC,53,CPM
+Burdwan - durgapur,GEN,M,GEN,55,CPM
+Asansol,GEN,M,GEN,49,CPM
+Bolpur,SC,M,SC,51,CPM
+Birbhum,GEN,F,GEN,40,AITC
+SARGUJA,ST,M,ST,49,BJP
+RAIGARH,ST,M,ST,45,BJP
+JANJGIR-CHAMPA,SC,F,SC,43,BJP
+KORBA,GEN,M,GEN,54,INC
+BILASPUR,GEN,M,GEN,60,BJP
+RAJNANDGAON,GEN,M,GEN,38,BJP
+DURG,GEN,F,GEN,40,BJP
+RAIPUR,GEN,M,GEN,61,BJP
+MAHASAMUND,GEN,M,GEN,49,BJP
+BASTAR,ST,M,ST,73,BJP
+KANKER,ST,M,ST,49,BJP
+Rajmahal,ST,M,ST,69,BJP
+Dumka,ST,M,ST,64,JMM
+Godda,GEN,M,GEN,37,BJP
+Chatra,GEN,M,GEN,62,IND
+Kodarma,GEN,M,ST,51,JVM
+Giridih,GEN,M,GEN,50,BJP
+Dhanbad,GEN,M,GEN,60,BJP
+Ranchi,GEN,M,GEN,57,INC
+Jamshedpur,GEN,M,ST,41,BJP
+Singhbhum,ST,M,ST,38,IND
+Khunti,ST,M,ST,72,BJP
+Lohardaga,ST,M,ST,40,BJP
+Palamau,SC,M,SC,56,JMM
+Hazaribagh,GEN,M,GEN,71,BJP
+Tehri Garhwal,GEN,M,GEN,62,INC
+Garhwal,GEN,M,GEN,56,INC
+Almora,SC,M,SC,47,INC
+Nainital-udhamsingh Nagar,GEN,M,GEN,60,INC
+Hardwar,GEN,M,GEN,59,INC
+Andaman & nicobar islands,GEN,M,GEN,59,BJP
+Chandigarh,GEN,M,GEN,60,INC
+Dadar & Nagar Haveli,GEN,M,ST,36,BJP
+Daman & diu,GEN,M,GEN,53,BJP
+CHANDNI CHOWK,GEN,M,GEN,60,INC
+NORTH EAST DELHI,GEN,M,GEN,64,INC
+EAST DELHI,GEN,M,GEN,44,INC
+NEW DELHI,GEN,M,GEN,45,INC
+NORTH WEST  DELHI,SC,F,SC,54,INC
+WEST  DELHI,GEN,M,GEN,54,INC
+SOUTH DELHI,GEN,M,GEN,53,INC
+Lakshadweep,ST,M,ST,26,INC
+Puducherry,GEN,M,GEN,61,INC
